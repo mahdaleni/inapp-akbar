@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps" id="br.com.diegoszmidtke" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" defaultlocale="pt-BR" android-versionCode="10">
-  <name>nativeDroid2</name>
+<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps" id="br.com.akbar" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" defaultlocale="pt-BR" android-versionCode="10">
+  <name>Web Kampus Akbar</name>
   <description>A cordova project using nativeDroid2, a jquery plugin that implement materialize design</description>
   <author href="http://cordova.io" email="dev@cordova.apache.org">Diego Szmidtke</author>
   <content src="index.html" />
